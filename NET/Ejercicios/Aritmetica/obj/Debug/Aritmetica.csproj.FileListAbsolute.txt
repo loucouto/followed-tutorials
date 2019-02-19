@@ -1,0 +1,2 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\Aritmetica\obj\Debug\Aritmetica.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\Aritmetica\obj\Debug\Aritmetica.csproj.CoreCompileInputs.cache

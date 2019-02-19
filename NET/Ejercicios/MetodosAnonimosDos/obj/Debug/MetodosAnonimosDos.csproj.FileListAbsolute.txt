@@ -1,0 +1,7 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosAnonimosDos\bin\Debug\MetodosAnonimosDos.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosAnonimosDos\bin\Debug\MetodosAnonimosDos.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosAnonimosDos\bin\Debug\MetodosAnonimosDos.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosAnonimosDos\obj\Debug\MetodosAnonimosDos.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosAnonimosDos\obj\Debug\MetodosAnonimosDos.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosAnonimosDos\obj\Debug\MetodosAnonimosDos.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosAnonimosDos\obj\Debug\MetodosAnonimosDos.pdb

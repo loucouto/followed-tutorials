@@ -1,0 +1,6 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\HashhTable\bin\Debug\HashhTable.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\HashhTable\bin\Debug\HashhTable.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\HashhTable\bin\Debug\HashhTable.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\HashhTable\obj\Debug\HashhTable.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\HashhTable\obj\Debug\HashhTable.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\HashhTable\obj\Debug\HashhTable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\AritmeticaAtrib\bin\Debug\AritmeticaAtrib.dll
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\AritmeticaAtrib\bin\Debug\AritmeticaAtrib.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\AritmeticaAtrib\obj\Debug\AritmeticaAtrib.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\AritmeticaAtrib\obj\Debug\AritmeticaAtrib.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\AritmeticaAtrib\obj\Debug\AritmeticaAtrib.dll
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\AritmeticaAtrib\obj\Debug\AritmeticaAtrib.pdb

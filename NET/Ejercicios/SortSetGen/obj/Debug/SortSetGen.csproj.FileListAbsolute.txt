@@ -1,0 +1,7 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGen\bin\Debug\SortSetGen.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGen\bin\Debug\SortSetGen.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGen\bin\Debug\SortSetGen.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGen\obj\Debug\SortSetGen.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGen\obj\Debug\SortSetGen.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGen\obj\Debug\SortSetGen.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGen\obj\Debug\SortSetGen.pdb

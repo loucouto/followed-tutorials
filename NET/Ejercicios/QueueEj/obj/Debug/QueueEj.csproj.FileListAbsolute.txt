@@ -1,0 +1,7 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\QueueEj\bin\Debug\QueueEj.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\QueueEj\bin\Debug\QueueEj.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\QueueEj\bin\Debug\QueueEj.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\QueueEj\obj\Debug\QueueEj.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\QueueEj\obj\Debug\QueueEj.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\QueueEj\obj\Debug\QueueEj.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\QueueEj\obj\Debug\QueueEj.pdb

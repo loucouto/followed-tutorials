@@ -1,0 +1,7 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\StackQueueEj\bin\Debug\StackQueueEj.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\StackQueueEj\bin\Debug\StackQueueEj.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\StackQueueEj\bin\Debug\StackQueueEj.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\StackQueueEj\obj\Debug\StackQueueEj.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\StackQueueEj\obj\Debug\StackQueueEj.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\StackQueueEj\obj\Debug\StackQueueEj.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\StackQueueEj\obj\Debug\StackQueueEj.pdb

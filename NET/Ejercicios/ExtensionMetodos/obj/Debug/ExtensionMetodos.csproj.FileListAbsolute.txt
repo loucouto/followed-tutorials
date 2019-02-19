@@ -1,0 +1,7 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ExtensionMetodos\bin\Debug\ExtensionMetodos.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ExtensionMetodos\bin\Debug\ExtensionMetodos.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ExtensionMetodos\bin\Debug\ExtensionMetodos.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ExtensionMetodos\obj\Debug\ExtensionMetodos.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ExtensionMetodos\obj\Debug\ExtensionMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ExtensionMetodos\obj\Debug\ExtensionMetodos.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ExtensionMetodos\obj\Debug\ExtensionMetodos.pdb

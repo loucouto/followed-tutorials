@@ -1,0 +1,7 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ClaseGenerica\bin\Debug\ClaseGenerica.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ClaseGenerica\bin\Debug\ClaseGenerica.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ClaseGenerica\bin\Debug\ClaseGenerica.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ClaseGenerica\obj\Debug\ClaseGenerica.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ClaseGenerica\obj\Debug\ClaseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ClaseGenerica\obj\Debug\ClaseGenerica.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\ClaseGenerica\obj\Debug\ClaseGenerica.pdb

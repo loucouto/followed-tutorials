@@ -1,0 +1,6 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\TiposPlugIn02\bin\Debug\TiposPlugIn02.dll
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\TiposPlugIn02\bin\Debug\TiposPlugIn02.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\TiposPlugIn02\obj\Debug\TiposPlugIn02.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\TiposPlugIn02\obj\Debug\TiposPlugIn02.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\TiposPlugIn02\obj\Debug\TiposPlugIn02.dll
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\TiposPlugIn02\obj\Debug\TiposPlugIn02.pdb

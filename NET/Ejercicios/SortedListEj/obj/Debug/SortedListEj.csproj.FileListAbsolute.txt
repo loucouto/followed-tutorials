@@ -1,0 +1,6 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortedListEj\bin\Debug\SortedListEj.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortedListEj\bin\Debug\SortedListEj.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortedListEj\bin\Debug\SortedListEj.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortedListEj\obj\Debug\SortedListEj.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortedListEj\obj\Debug\SortedListEj.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortedListEj\obj\Debug\SortedListEj.pdb

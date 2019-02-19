@@ -1,0 +1,7 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosGenericos\bin\Debug\MetodosGenericos.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosGenericos\bin\Debug\MetodosGenericos.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosGenericos\bin\Debug\MetodosGenericos.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosGenericos\obj\Debug\MetodosGenericos.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosGenericos\obj\Debug\MetodosGenericos.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosGenericos\obj\Debug\MetodosGenericos.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\MetodosGenericos\obj\Debug\MetodosGenericos.pdb

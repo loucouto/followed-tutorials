@@ -1,0 +1,7 @@
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGenTwo\bin\Debug\SortSetGenTwo.exe.config
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGenTwo\bin\Debug\SortSetGenTwo.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGenTwo\bin\Debug\SortSetGenTwo.pdb
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGenTwo\obj\Debug\SortSetGenTwo.csprojAssemblyReference.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGenTwo\obj\Debug\SortSetGenTwo.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGenTwo\obj\Debug\SortSetGenTwo.exe
+C:\Users\Lourdes Couto\Documents\Visual Studio 2017\Projects\Ejercicios\SortSetGenTwo\obj\Debug\SortSetGenTwo.pdb
